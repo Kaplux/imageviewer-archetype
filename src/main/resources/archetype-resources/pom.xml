@@ -3,10 +3,10 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>${package}</groupId>
-    <artifactId>{artifactId}</artifactId>
+    <artifactId>${artifactId}</artifactId>
     <version>1.0</version>
     <packaging>apk</packaging>
-    <name>omgponies</name>
+    <name>${appName}</name>
 
     <properties>
         <platform.version> 2.3.3

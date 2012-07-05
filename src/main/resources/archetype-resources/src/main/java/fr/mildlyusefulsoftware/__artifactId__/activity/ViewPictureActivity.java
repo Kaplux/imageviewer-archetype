@@ -1,4 +1,4 @@
-package ${package}.activity;
+package ${package}.${artifactId}.activity;
 
 import java.util.ArrayList;
 import java.util.List;
